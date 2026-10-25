@@ -1,0 +1,312 @@
+{
+  "schemaVersion": 3,
+  "id": "com.tezbar.native.audio-device",
+  "slug": "audio-device",
+  "name": "Set Audio Device",
+  "version": "1.0.0",
+  "description": "Switch audio devices, volume, favorites and defaults. Auto-switch commands apply once per invocation.",
+  "author": "benvp",
+  "icon": "resources/assets/command-icon.png",
+  "runtime": "rust",
+  "replaces": [
+    "raycast.audio-device"
+  ],
+  "platforms": [
+    "macOS",
+    "Windows"
+  ],
+  "preferences": [
+    {
+      "name": "systemOutput",
+      "required": false,
+      "title": "Play sound effects through current output",
+      "description": "Play system sounds through current output.",
+      "label": "Update system sounds output",
+      "type": "checkbox",
+      "default": false
+    },
+    {
+      "name": "favourite",
+      "required": false,
+      "title": "Favourite Output Device",
+      "description": "The name, as found in the output device list, of the output device to use as the first favourite",
+      "type": "textfield",
+      "default": ""
+    },
+    {
+      "name": "favourite2",
+      "required": false,
+      "title": "Favourite Output Device 2",
+      "description": "The name, as found in the output device list, of the output device to use as the second favourite",
+      "type": "textfield",
+      "default": ""
+    }
+  ],
+  "commands": [
+    {
+      "name": "set-output-device",
+      "title": "Set Output Device",
+      "description": "Sets the active audio output device.",
+      "mode": "view",
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "runtime": "rust",
+      "concurrency": "serialize",
+      "refreshMs": 2000
+    },
+    {
+      "name": "set-input-device",
+      "title": "Set Input Device",
+      "description": "Sets the active audio input device.",
+      "mode": "view",
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "runtime": "rust",
+      "concurrency": "serialize",
+      "refreshMs": 2000
+    },
+    {
+      "name": "set-volume",
+      "title": "Set Output Volume",
+      "description": "Set the volume of an output device.",
+      "mode": "view",
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "runtime": "rust",
+      "concurrency": "serialize",
+      "refreshMs": 2000
+    },
+    {
+      "name": "set-input-volume",
+      "title": "Set Input Volume",
+      "description": "Set the volume of an input device.",
+      "mode": "view",
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "runtime": "rust",
+      "concurrency": "serialize",
+      "refreshMs": 2000
+    },
+    {
+      "name": "auto-switch-input",
+      "title": "Enforce Input Device",
+      "description": "Apply your default input device and pinned volumes now. Automatic periodic enforcement is not available in Native V2 yet.",
+      "mode": "no-view",
+      "interval": "1m",
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "runtime": "rust",
+      "concurrency": "serialize",
+      "refreshMs": null
+    },
+    {
+      "name": "auto-switch-output",
+      "title": "Enforce Output Device",
+      "description": "Apply your default output device and pinned volumes now. Automatic periodic enforcement is not available in Native V2 yet.",
+      "mode": "no-view",
+      "interval": "1m",
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "runtime": "rust",
+      "concurrency": "serialize",
+      "refreshMs": null
+    },
+    {
+      "name": "customize-order",
+      "title": "Customize Order (Replaced)",
+      "description": "This command has been replaced. Use Cmd+Shift+D in Set Output/Input Device to set a default device.",
+      "mode": "view",
+      "disabledByDefault": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "runtime": "rust",
+      "concurrency": "serialize",
+      "refreshMs": 2000
+    },
+    {
+      "name": "favourite",
+      "title": "Set Output Device to Favourite",
+      "description": "Sets the active audio output device to the favourite specified in the preferences",
+      "mode": "no-view",
+      "disabledByDefault": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "runtime": "rust",
+      "concurrency": "serialize",
+      "refreshMs": null
+    },
+    {
+      "name": "toggle-favourites",
+      "title": "Toggle Favourites",
+      "description": "Toggle the active audio output device between the favourites specified in the preferences",
+      "mode": "no-view",
+      "disabledByDefault": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "runtime": "rust",
+      "concurrency": "serialize",
+      "refreshMs": null
+    },
+    {
+      "name": "use-combo1",
+      "title": "Use Combo 1",
+      "description": "Switch to the first input/output device combination",
+      "mode": "no-view",
+      "preferences": [
+        {
+          "name": "comboName",
+          "required": true,
+          "title": "Combo Name",
+          "description": "A friendly name for this device combination",
+          "type": "textfield",
+          "default": "Combo 1"
+        },
+        {
+          "name": "input",
+          "required": true,
+          "title": "Input Device",
+          "description": "The name of the input device for this combo",
+          "type": "textfield",
+          "default": ""
+        },
+        {
+          "name": "output",
+          "required": true,
+          "title": "Output Device",
+          "description": "The name of the output device for this combo",
+          "type": "textfield",
+          "default": ""
+        }
+      ],
+      "disabledByDefault": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "runtime": "rust",
+      "concurrency": "serialize",
+      "refreshMs": null
+    },
+    {
+      "name": "use-combo2",
+      "title": "Use Combo 2",
+      "description": "Switch to the second input/output device combination",
+      "mode": "no-view",
+      "preferences": [
+        {
+          "name": "comboName",
+          "required": true,
+          "title": "Combo Name",
+          "description": "A friendly name for this device combination",
+          "type": "textfield",
+          "default": "Combo 2"
+        },
+        {
+          "name": "input",
+          "required": true,
+          "title": "Input Device",
+          "description": "The name of the input device for this combo",
+          "type": "textfield",
+          "default": ""
+        },
+        {
+          "name": "output",
+          "required": true,
+          "title": "Output Device",
+          "description": "The name of the output device for this combo",
+          "type": "textfield",
+          "default": ""
+        }
+      ],
+      "disabledByDefault": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "runtime": "rust",
+      "concurrency": "serialize",
+      "refreshMs": null
+    },
+    {
+      "name": "use-combo3",
+      "title": "Use Combo 3",
+      "description": "Switch to the third input/output device combination",
+      "mode": "no-view",
+      "preferences": [
+        {
+          "name": "comboName",
+          "required": true,
+          "title": "Combo Name",
+          "description": "A friendly name for this device combination",
+          "type": "textfield",
+          "default": "Combo 3"
+        },
+        {
+          "name": "input",
+          "required": true,
+          "title": "Input Device",
+          "description": "The name of the input device for this combo",
+          "type": "textfield",
+          "default": ""
+        },
+        {
+          "name": "output",
+          "required": true,
+          "title": "Output Device",
+          "description": "The name of the output device for this combo",
+          "type": "textfield",
+          "default": ""
+        }
+      ],
+      "disabledByDefault": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "runtime": "rust",
+      "concurrency": "serialize",
+      "refreshMs": null
+    }
+  ],
+  "verification": [
+    {
+      "platform": "macOS",
+      "state": "not-run"
+    },
+    {
+      "platform": "Windows",
+      "state": "not-run"
+    }
+  ],
+  "execution": "process",
+  "protocolVersion": 1,
+  "repository": "https://github.com/almatkai/audio-device",
+  "artifacts": {},
+  "capabilities": [
+    "clipboard.write"
+  ],
+  "migrationPaths": {
+    "nativeStore": "native-extensions-v2/audio-device/storage.json",
+    "legacyLocalStorage": "extensions/audio-device/.tezbar-local-storage.json",
+    "legacyPackageStorage": "extensions/packages/raycast.audio-device/.tezbar-local-storage.json"
+  },
+  "files": {}
+}
