@@ -1,0 +1,242 @@
+[
+  {
+    "name": ".gitignore",
+    "path": "extensions/audio-device/.gitignore",
+    "sha": "854f317695f7dd3ae86e9d225d2e5f38068f0b76",
+    "size": 360,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/.gitignore?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/.gitignore",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/854f317695f7dd3ae86e9d225d2e5f38068f0b76",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/.gitignore?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/854f317695f7dd3ae86e9d225d2e5f38068f0b76",
+      "html": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/.gitignore"
+    }
+  },
+  {
+    "name": ".prettierrc",
+    "path": "extensions/audio-device/.prettierrc",
+    "sha": "fc0f5030683fa6196d08943646300755fce2f207",
+    "size": 48,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/.prettierrc?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/.prettierrc",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/fc0f5030683fa6196d08943646300755fce2f207",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/.prettierrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/.prettierrc?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/fc0f5030683fa6196d08943646300755fce2f207",
+      "html": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/.prettierrc"
+    }
+  },
+  {
+    "name": "CHANGELOG.md",
+    "path": "extensions/audio-device/CHANGELOG.md",
+    "sha": "9f30da3ee19d772740ad51ec43bd66c10c99d7bb",
+    "size": 5179,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/CHANGELOG.md?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/CHANGELOG.md",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/9f30da3ee19d772740ad51ec43bd66c10c99d7bb",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/CHANGELOG.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/CHANGELOG.md?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/9f30da3ee19d772740ad51ec43bd66c10c99d7bb",
+      "html": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/CHANGELOG.md"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "extensions/audio-device/README.md",
+    "sha": "f21dfdec3e82a6c85bb95d894ceaea9cbd7676ba",
+    "size": 3192,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/README.md?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/README.md",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/f21dfdec3e82a6c85bb95d894ceaea9cbd7676ba",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/README.md?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/f21dfdec3e82a6c85bb95d894ceaea9cbd7676ba",
+      "html": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/README.md"
+    }
+  },
+  {
+    "name": "ai.yaml",
+    "path": "extensions/audio-device/ai.yaml",
+    "sha": "89da01a1d448b0137f07b120cc92d8ec8da5d432",
+    "size": 2106,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/ai.yaml?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/ai.yaml",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/89da01a1d448b0137f07b120cc92d8ec8da5d432",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/ai.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/ai.yaml?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/89da01a1d448b0137f07b120cc92d8ec8da5d432",
+      "html": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/ai.yaml"
+    }
+  },
+  {
+    "name": "assets",
+    "path": "extensions/audio-device/assets",
+    "sha": "f59e3680148d80b007b8e7dab337d4dcae7d4f07",
+    "size": 0,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/assets?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/tree/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/assets",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/trees/f59e3680148d80b007b8e7dab337d4dcae7d4f07",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/assets?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/trees/f59e3680148d80b007b8e7dab337d4dcae7d4f07",
+      "html": "https://github.com/raycast/extensions/tree/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/assets"
+    }
+  },
+  {
+    "name": "eslint.config.mjs",
+    "path": "extensions/audio-device/eslint.config.mjs",
+    "sha": "0186044bee37b75b972f2a2e47daa360be9d2e0e",
+    "size": 90,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/eslint.config.mjs?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/eslint.config.mjs",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/0186044bee37b75b972f2a2e47daa360be9d2e0e",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/eslint.config.mjs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/eslint.config.mjs?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/0186044bee37b75b972f2a2e47daa360be9d2e0e",
+      "html": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/eslint.config.mjs"
+    }
+  },
+  {
+    "name": "metadata",
+    "path": "extensions/audio-device/metadata",
+    "sha": "a9fba505dbe81cd45137c9ddbe48a99a37f2a6ff",
+    "size": 0,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/metadata?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/tree/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/metadata",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/trees/a9fba505dbe81cd45137c9ddbe48a99a37f2a6ff",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/metadata?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/trees/a9fba505dbe81cd45137c9ddbe48a99a37f2a6ff",
+      "html": "https://github.com/raycast/extensions/tree/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/metadata"
+    }
+  },
+  {
+    "name": "package-lock.json",
+    "path": "extensions/audio-device/package-lock.json",
+    "sha": "7aa68206a2263dd7e584028f30d230ddbf5bdf3a",
+    "size": 118753,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/package-lock.json?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/package-lock.json",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/7aa68206a2263dd7e584028f30d230ddbf5bdf3a",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/package-lock.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/package-lock.json?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/7aa68206a2263dd7e584028f30d230ddbf5bdf3a",
+      "html": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/package-lock.json"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "extensions/audio-device/package.json",
+    "sha": "720d04a05fe071321c0773cddbc4cc8bcc672819",
+    "size": 8977,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/package.json?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/package.json",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/720d04a05fe071321c0773cddbc4cc8bcc672819",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/package.json?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/720d04a05fe071321c0773cddbc4cc8bcc672819",
+      "html": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/package.json"
+    }
+  },
+  {
+    "name": "scripts",
+    "path": "extensions/audio-device/scripts",
+    "sha": "418fad459a60ae42e17cfb8ccf7f54845c85b6d1",
+    "size": 0,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/scripts?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/tree/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/scripts",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/trees/418fad459a60ae42e17cfb8ccf7f54845c85b6d1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/scripts?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/trees/418fad459a60ae42e17cfb8ccf7f54845c85b6d1",
+      "html": "https://github.com/raycast/extensions/tree/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/scripts"
+    }
+  },
+  {
+    "name": "src",
+    "path": "extensions/audio-device/src",
+    "sha": "4b44c71bea35ae15dfaab72139937ecae97365c9",
+    "size": 0,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/src?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/tree/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/src",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/trees/4b44c71bea35ae15dfaab72139937ecae97365c9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/src?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/trees/4b44c71bea35ae15dfaab72139937ecae97365c9",
+      "html": "https://github.com/raycast/extensions/tree/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/src"
+    }
+  },
+  {
+    "name": "swift",
+    "path": "extensions/audio-device/swift",
+    "sha": "21ed273b9ee212009c8339a446a879646f8ee446",
+    "size": 0,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/swift?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/tree/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/swift",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/trees/21ed273b9ee212009c8339a446a879646f8ee446",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/swift?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/trees/21ed273b9ee212009c8339a446a879646f8ee446",
+      "html": "https://github.com/raycast/extensions/tree/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/swift"
+    }
+  },
+  {
+    "name": "tests",
+    "path": "extensions/audio-device/tests",
+    "sha": "fc7ef9163b32e1b1fe151bbd99252bf1384bff63",
+    "size": 0,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/tests?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/tree/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/tests",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/trees/fc7ef9163b32e1b1fe151bbd99252bf1384bff63",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/tests?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/trees/fc7ef9163b32e1b1fe151bbd99252bf1384bff63",
+      "html": "https://github.com/raycast/extensions/tree/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/tests"
+    }
+  },
+  {
+    "name": "tsconfig.json",
+    "path": "extensions/audio-device/tsconfig.json",
+    "sha": "6f9cfe15293b629b9c7777d0248eae0a654fb3be",
+    "size": 402,
+    "url": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/tsconfig.json?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "html_url": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/tsconfig.json",
+    "git_url": "https://api.github.com/repos/raycast/extensions/git/blobs/6f9cfe15293b629b9c7777d0248eae0a654fb3be",
+    "download_url": "https://raw.githubusercontent.com/raycast/extensions/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/tsconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/raycast/extensions/contents/extensions/audio-device/tsconfig.json?ref=97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+      "git": "https://api.github.com/repos/raycast/extensions/git/blobs/6f9cfe15293b629b9c7777d0248eae0a654fb3be",
+      "html": "https://github.com/raycast/extensions/blob/97ee2594a03a94fa439c26864d85ad9a96dc9fc9/extensions/audio-device/tsconfig.json"
+    }
+  }
+]

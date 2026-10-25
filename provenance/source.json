@@ -1,0 +1,69 @@
+{
+  "slug": "audio-device",
+  "status": "source-inputs-only",
+  "standalone": false,
+  "source_pack_complete_for_research": true,
+  "repository": "almatkai/audio-device",
+  "repository_exists_at_inventory": false,
+  "repository_visibility": null,
+  "repository_proposed_name": "audio-device",
+  "publish_allowed": "not-approved; research inputs need integration/license review",
+  "app_base": "fe71ca87f21ac4ff31505010c228f8abda0f2a89",
+  "app_branch": "fix/beta15-external-rust-extensions",
+  "source_sha256": "ce22d402985fbfe61c6191ad5ce34c6b924c8b6794d4c7c4eea130f020d3fed9",
+  "source_module": "src-tauri/src/native_core/extensions/v2_audio_device.rs",
+  "manifest": "manifest.v2.json",
+  "manifest_icon_original_copied": true,
+  "manifest_asset_references": [
+    "command-icon.png"
+  ],
+  "actual_missing_assets": [],
+  "commands": 12,
+  "runtime_validation": "not-run",
+  "remaining_port_couplings": "Host store/data/resource paths and scheduled enforcement; macOS binary staging and hash checks; Windows pinned first-use provisioner. Existing prepare script is app-layout-specific, not a standalone build script.",
+  "host_request_routes": [],
+  "sdk_functions": [
+    "copy",
+    "no_view",
+    "read_store",
+    "unchanged",
+    "update_store",
+    "view"
+  ],
+  "license_notices": [
+    "App LICENSE retained exactly (Apache-2.0, existing Almat notice); retain Raycast MIT and original author/contributor metadata; not one license for all third-party assets. Original icons preserved; no trademark grant or independent authorship invented.",
+    "Exact @spotxyz/macos-audio-devices 1.5.0 npm MIT notice (George Karagkiaouris) retained; npm archive integrity and embedded CLI hash verified. sound-control Swift source and Raycast notices retained at pinned commit. win-audio-cli 1.3.1 MIT notice preserved literally (copyright line has no holder), plus go-ole, go-wca and x/sys notices. Opaque binaries omitted; pinned fetch descriptors retained, no full binary/transitive-license certification."
+  ],
+  "installed_public_metadata": {
+    "author": "benvp",
+    "contributors": [
+      "mathieudutour",
+      "mike182uk",
+      "FezVrasta",
+      "rcruzper",
+      "thomas",
+      "arthur_fontaine",
+      "pernielsentikaer",
+      "taschaub",
+      "cballenar",
+      "joshmedeski",
+      "joshhayes747",
+      "inovvia",
+      "mateus_badalotti",
+      "pavzagor",
+      "alexi.build"
+    ],
+    "license": "MIT",
+    "version": null
+  },
+  "installed_upstream_exact_commit": "unknown",
+  "upstream_snapshot": {
+    "slug": "audio-device",
+    "repository": "raycast/extensions",
+    "snapshot_commit": "97ee2594a03a94fa439c26864d85ad9a96dc9fc9",
+    "installed_exact_upstream_commit": "unknown",
+    "extension_path": "extensions/audio-device",
+    "errors": []
+  },
+  "existing_repository_upstream": null
+}

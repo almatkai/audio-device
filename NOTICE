@@ -1,0 +1,16 @@
+Set Audio Device standalone Rust extension
+
+Rust domain source extracted from Tezbar at fe71ca87f21ac4ff31505010c228f8abda0f2a89.
+Retain the original Apache-2.0 app LICENSE and licenses/raycast-extensions-MIT.txt.
+Installed Raycast extension author: benvp; contributors: mathieudutour, mike182uk, FezVrasta, rcruzper, thomas, arthur_fontaine, pernielsentikaer, taschaub, cballenar, joshmedeski, joshhayes747, inovvia, mateus_badalotti, pavzagor, alexi.build.
+Original installed upstream revision is unknown. The separate upstream metadata
+snapshot 97ee2594a03a94fa439c26864d85ad9a96dc9fc9 is context, not a claim that the
+installed assets originated at that commit. See provenance/source.json and
+provenance/upstream/installed-package.json for author/contributor metadata.
+Original icons and resources are preserved. No trademark rights are claimed.
+
+Native helpers have separate MIT notices in resources/notices. audio-devices:
+@spotxyz/macos-audio-devices 1.5.0, George Karagkiaouris. sound-control:
+Raycast extensions pinned fc737c076e1698e51f0378cd46293358e019ee91. Windows:
+Inovvia/go-win-audio-cli 1.3.1, including retained Go dependency notices.
+Exact URLs and verified SHA-256 values are in provenance/helpers.json.

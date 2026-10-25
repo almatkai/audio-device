@@ -1,0 +1,239 @@
+{
+  "appCommit": "fe71ca87f21ac4ff31505010c228f8abda0f2a89",
+  "files": [
+    {
+      "path": "src-tauri/src/native_core/extensions/v2_audio_device.rs",
+      "size": 53451,
+      "sha256": "ce22d402985fbfe61c6191ad5ce34c6b924c8b6794d4c7c4eea130f020d3fed9",
+      "originType": "app-git",
+      "originCommit": "fe71ca87f21ac4ff31505010c228f8abda0f2a89"
+    },
+    {
+      "path": "LICENSE",
+      "size": 10750,
+      "sha256": "0ed6b1b2760294d4aaaa45be38e166fcc0168e1dd5190423c096fcbe1c94afbf",
+      "originType": "app-git",
+      "originCommit": "fe71ca87f21ac4ff31505010c228f8abda0f2a89"
+    },
+    {
+      "path": "licenses/raycast-extensions-MIT.txt",
+      "size": 1064,
+      "sha256": "7f727f8b20cdd0e65f84e70b9cac2fce337dcecee4dc88955eb012ea27f02755",
+      "originType": "app-git",
+      "originCommit": "fe71ca87f21ac4ff31505010c228f8abda0f2a89"
+    },
+    {
+      "path": "manifest.v2.json",
+      "size": 8503,
+      "sha256": "e866fd87550b03e1d4f2e279e69bde8f7927da473da56030e62f66f93a851a7b",
+      "originType": "catalog-selection",
+      "originCommit": "fe71ca87f21ac4ff31505010c228f8abda0f2a89"
+    },
+    {
+      "path": "provenance/installed-package.json",
+      "size": 7801,
+      "sha256": "bb287cdf76d551688a887f2be24fbd1c3ba9ce5195e7f4a432d27f3a454b255b",
+      "originType": "local-read-only"
+    },
+    {
+      "path": "assets/airplay.png",
+      "size": 1234,
+      "sha256": "88460ca01f0e1caf304e8ec8457883163cd11f43c5ddc900b939d0617fe03969",
+      "originType": "local-read-only"
+    },
+    {
+      "path": "assets/airpods-max.png",
+      "size": 331,
+      "sha256": "96d21182a65e390802e304fa85263b17d159aeeedefbbdb1280ada0b02b88d4e",
+      "originType": "local-read-only"
+    },
+    {
+      "path": "assets/airpods-pro.png",
+      "size": 270,
+      "sha256": "9118121fabb6f8ab14127ac53f501bccde211684004b4a0322b361b092b50283",
+      "originType": "local-read-only"
+    },
+    {
+      "path": "assets/airpods.png",
+      "size": 247,
+      "sha256": "73542a00ec19cd1276111260bab3d2e6d97702a860aebe11f52c1e970b1c4ba6",
+      "originType": "local-read-only"
+    },
+    {
+      "path": "assets/bluetooth-speaker.png",
+      "size": 1101,
+      "sha256": "153528fe77bd027d069d4137f585fde07597172aaa1f17cdd5bb3ecc9c46b9dd",
+      "originType": "local-read-only"
+    },
+    {
+      "path": "assets/command-icon.png",
+      "size": 174789,
+      "sha256": "6e5f04ecb3b21e88a5fb8e0a1c192a2124daa009cf79e53b26d21d1322c2e348",
+      "originType": "local-read-only"
+    },
+    {
+      "path": "assets/headphones.png",
+      "size": 6727,
+      "sha256": "974e24e379a2c6ae87f65736fdc1e66c6b5b4e660cff8f3c36bbfd67486ce37d",
+      "originType": "local-read-only"
+    },
+    {
+      "path": "assets/mic.png",
+      "size": 2168,
+      "sha256": "21bab1955b6e38a5d7768fd4b9b0c790e55106b7c9444b31c6d0cdf9b674bf13",
+      "originType": "local-read-only"
+    },
+    {
+      "path": "assets/speaker.png",
+      "size": 573,
+      "sha256": "4c616b774f92405cb0c2d6199e2b3a38295482398f044fcdc67b2d36bfa01558",
+      "originType": "local-read-only"
+    },
+    {
+      "path": "scripts/prepare-native-v2-audio.mjs",
+      "size": 5971,
+      "sha256": "47ebe99d0c5ede44df261d0450c061d0157f1db903ee7a2258667251e14948ce",
+      "originType": "app-git",
+      "originCommit": "fe71ca87f21ac4ff31505010c228f8abda0f2a89"
+    },
+    {
+      "path": "provenance/upstream-directory.json",
+      "size": 16619,
+      "sha256": "fc30a4c4aa400bb1f557187db4eaf327084e7c3f204f17d34893a1824cac9b08",
+      "originType": "github-api",
+      "originCommit": "97ee2594a03a94fa439c26864d85ad9a96dc9fc9"
+    },
+    {
+      "path": "provenance/current-upstream/README.md",
+      "size": 3192,
+      "sha256": "265ea818f86b663828734ca1430eda1206590fecb6566d53fbd022ec4611abd8",
+      "originType": "https"
+    },
+    {
+      "path": "provenance/current-upstream/package.json",
+      "size": 8977,
+      "sha256": "0e6065002b4b52f694bdf1623f547173608a2b6d96a0391fd075e631383fd449",
+      "originType": "https"
+    },
+    {
+      "path": "provenance/current-upstream/repository-LICENSE",
+      "size": 1064,
+      "sha256": "7f727f8b20cdd0e65f84e70b9cac2fce337dcecee4dc88955eb012ea27f02755",
+      "originType": "https"
+    },
+    {
+      "path": "provenance/helper-upstream/668e9109768f48a76a8e09b6f06d804b4e8b2068/package.json",
+      "size": 6957,
+      "sha256": "a47f8712dfc792e9dd978effeb62a8194793629cf2601f6a14789a4fe31026e4",
+      "originType": "https"
+    },
+    {
+      "path": "provenance/helper-upstream/668e9109768f48a76a8e09b6f06d804b4e8b2068/package-lock.json",
+      "size": 116191,
+      "sha256": "032485c4b154fd8b36586a0caa88e91eead8ec9175aaa9fc2058246ea036bbb4",
+      "originType": "https"
+    },
+    {
+      "path": "provenance/helper-upstream/668e9109768f48a76a8e09b6f06d804b4e8b2068/scripts/copy-binary.js",
+      "size": 811,
+      "sha256": "b435efd2b200e14c8000bf07cee08c90c2c1d9f19f33c1bafc438991f381c1f1",
+      "originType": "https"
+    },
+    {
+      "path": "provenance/helper-upstream/668e9109768f48a76a8e09b6f06d804b4e8b2068/repository-LICENSE",
+      "size": 1064,
+      "sha256": "7f727f8b20cdd0e65f84e70b9cac2fce337dcecee4dc88955eb012ea27f02755",
+      "originType": "https"
+    },
+    {
+      "path": "provenance/helper-upstream/fc737c076e1698e51f0378cd46293358e019ee91/README.md",
+      "size": 2599,
+      "sha256": "742809e19f7250573cd0891cd71f77fe15cab5678a3cebd3f8e2d3b9e46c5559",
+      "originType": "https"
+    },
+    {
+      "path": "provenance/helper-upstream/fc737c076e1698e51f0378cd46293358e019ee91/swift/sound-control.swift",
+      "size": 18847,
+      "sha256": "f5527db0bec9cd9aef03da09a4f4a1d63e595cd0f61699af0031675f2354dacf",
+      "originType": "https"
+    },
+    {
+      "path": "provenance/helper-upstream/fc737c076e1698e51f0378cd46293358e019ee91/repository-LICENSE",
+      "size": 1064,
+      "sha256": "7f727f8b20cdd0e65f84e70b9cac2fce337dcecee4dc88955eb012ea27f02755",
+      "originType": "https"
+    },
+    {
+      "path": "provenance/macos-audio-devices/npm-metadata.json",
+      "size": 3215,
+      "sha256": "5150405c4b8c3d8e4f9a30b0a5bc4eaf3e57c86af87a68f50f63de17882ec149",
+      "originType": "https"
+    },
+    {
+      "path": "provenance/macos-audio-devices/package/license",
+      "size": 1129,
+      "sha256": "1658f0a13081600989a4a5d9d97c6e1eb5f466307bce582c7bcfb4f0209a6589",
+      "originType": "archive-member"
+    },
+    {
+      "path": "provenance/macos-audio-devices/package/package.json",
+      "size": 1233,
+      "sha256": "835c157a00e4cf1b985792c56658ea8de2eb628fce398ee489ef2a17ba4e8d34",
+      "originType": "archive-member"
+    },
+    {
+      "path": "provenance/macos-audio-devices/package/readme.md",
+      "size": 5935,
+      "sha256": "5a2337464fdfef54dbd1a6abec870dab5684427654a869956712146544346523",
+      "originType": "archive-member"
+    },
+    {
+      "path": "provenance/win-audio-cli-1.3.1/LICENSE",
+      "size": 1064,
+      "sha256": "4d4f09ea966e7b411a6a9d8fcca2b66c29178fd63a0369033ffafd55c9fb78d3",
+      "originType": "https"
+    },
+    {
+      "path": "provenance/win-audio-cli-1.3.1/README.md",
+      "size": 3104,
+      "sha256": "3fb7425813d1282e044b3d15422e952154f662a443f2620c722e3e361e4ada9e",
+      "originType": "https"
+    },
+    {
+      "path": "provenance/win-audio-cli-1.3.1/go.mod",
+      "size": 155,
+      "sha256": "b73175415059da8d7da4311063869527d11d9182d509e90135925598eff32dcd",
+      "originType": "https"
+    },
+    {
+      "path": "provenance/win-audio-cli-1.3.1/go.sum",
+      "size": 681,
+      "sha256": "6ad28f06d876465dd996a63da35bb13f0f0597b29dc42a7adfae4b106435ee7a",
+      "originType": "https"
+    },
+    {
+      "path": "provenance/win-audio-cli-1.3.1/release.json",
+      "size": 4004,
+      "sha256": "b17b4435049a74acd697c4ef7516e1200f1691136c89c22af9ce9bbc31304d38",
+      "originType": "https"
+    },
+    {
+      "path": "provenance/win-audio-cli-1.3.1/dependency-notices/go-ole-v1.3.0-LICENSE",
+      "size": 1119,
+      "sha256": "d883dbca28769ff23dd4368a8edb7ad9f9f23a8f86adde2875c6e41a828aac62",
+      "originType": "https"
+    },
+    {
+      "path": "provenance/win-audio-cli-1.3.1/dependency-notices/go-wca-v0.3.0-LICENSE",
+      "size": 1095,
+      "sha256": "b6ca5e5726118d210bc2e98b28943548beb67b539eb09bcfcad759f93114847d",
+      "originType": "https"
+    },
+    {
+      "path": "provenance/win-audio-cli-1.3.1/dependency-notices/x-sys-v0.1.0-LICENSE",
+      "size": 1479,
+      "sha256": "2d36597f7117c38b006835ae7f537487207d8ec407aa9d9980794b2030cbc067",
+      "originType": "https"
+    }
+  ]
+}
